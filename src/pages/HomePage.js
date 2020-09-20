@@ -43,7 +43,9 @@ function HomePage() {
   const days = ["Mon", "Tue", "Wed", "Thur", "Fri"];
   return (
     <MainDiv>
-      <Title>School TimeTable</Title>
+      <Title>
+        <u>School TimeTable</u>
+      </Title>
       <MainTableDiv>
         <DayOfWeekDiv>
           {days.map((day) => {
