@@ -1,0 +1,84 @@
+{
+  "subject": {
+    "lesson1": {
+      "3N": [
+        { "id": 1, "day": "monday", "subject": "Assembly", "teacher": "CO" },
+        { "id": 2, "day": "tuesday", "subject": "Eng", "teacher": "JN" },
+        { "id": 3, "day": "wednesday", "subject": "Math", "teacher": "JN" },
+        { "id": 4, "day": "thursday", "subject": "Bio", "teacher": "JN" },
+        { "id": 5, "day": "friday", "subject": "Assembly", "teacher": "JN" }
+      ],
+      "3S": [
+        { "id": 1, "day": "monday", "subject": "Assembly", "teacher": "JK" },
+        { "id": 2, "day": "tuesday", "subject": "Math", "teacher": "JK" },
+        { "id": 3, "day": "wednesday", "subject": "Phyc", "teacher": "JK" },
+        { "id": 4, "day": "thursday", "subject": "Eng", "teacher": "JK" },
+        { "id": 5, "day": "friday", "subject": "Assembly", "teacher": "JK" }
+      ]
+    },
+    "lesson2": {
+      "3N": [
+        { "id": 1, "day": "monday", "subject": "Maths", "teacher": "JN" },
+        { "id": 2, "day": "tuesday", "subject": "P.E", "teacher": "JN" },
+        { "id": 3, "day": "wednesday", "subject": "Kisw", "teacher": "JN" },
+        { "id": 4, "day": "thursday", "subject": "Math", "teacher": "JN" },
+        { "id": 5, "day": "friday", "subject": "Kisw", "teacher": "JN" }
+      ],
+      "3S": [
+        { "id": 1, "day": "monday", "subject": "Eng", "teacher": "JK" },
+        { "id": 2, "day": "tuesday", "subject": "Kisw", "teacher": "JK" },
+        { "id": 3, "day": "wednesday", "subject": "Bio", "teacher": "JK" },
+        { "id": 4, "day": "thursday", "subject": "Phyc", "teacher": "JK" },
+        { "id": 1, "day": "friday", "subject": "P.E", "teacher": "JK" }
+      ]
+    },
+    "lesson3": {
+      "3N": [
+        { "id": 1, "day": "monday", "subject": "Bio", "teacher": "JN" },
+        { "id": 2, "day": "tuesday", "subject": "Phyc", "teacher": "JN" },
+        { "id": 3, "day": "wednesday", "subject": "Eng", "teacher": "JN" },
+        { "id": 4, "day": "thursday", "subject": "Kisw", "teacher": "JN" },
+        { "id": 5, "day": "friday", "subject": "Eng", "teacher": "JN" }
+      ],
+      "3S": [
+        { "id": 1, "day": "monday", "subject": "Eng", "teacher": "JK" },
+        { "id": 2, "day": "tuesday", "subject": "Bio", "teacher": "JK" },
+        { "id": 3, "day": "wednesday", "subject": "Math", "teacher": "JK" },
+        { "id": 4, "day": "thursday", "subject": "Kisw", "teacher": "JK" },
+        { "id": 5, "day": "friday", "subject": "Phyc", "teacher": "JK" }
+      ]
+    },
+    "lesson4": {
+      "3N": [
+        { "id": 1, "day": "monday", "subject": "Kisw", "teacher": "JN" },
+        { "id": 2, "day": "tuesday", "subject": "Bio", "teacher": "JN" },
+        { "id": 3, "day": "wednesday", "subject": "Math", "teacher": "JN" },
+        { "id": 4, "day": "thursday", "subject": "Phyc", "teacher": "JN" },
+        { "id": 5, "day": "friday", "subject": "Math", "teacher": "JN" }
+      ],
+      "3S": [
+        { "id": 1, "day": "monday", "subject": "Phyc", "teacher": "JK" },
+        { "id": 2, "day": "tuesday", "subject": "Math", "teacher": "JK" },
+        { "id": 3, "day": "wednesday", "subject": "Eng", "teacher": "JK" },
+        { "id": 4, "day": "thursday", "subject": "Math", "teacher": "JK" },
+        { "id": 5, "day": "monday", "subject": "Bio", "teacher": "JK" }
+      ]
+    },
+    "lesson5": {
+      "3N": [
+        { "id": 1, "day": "monday", "subject": "Phyc", "teacher": "JN" },
+        { "id": 2, "day": "tuesday", "subject": "Kisw", "teacher": "JN" },
+        { "id": 3, "day": "wednesday", "subject": "Bio", "teacher": "JN" },
+        { "id": 4, "day": "thursday", "subject": "Eng", "teacher": "JN" },
+        { "id": 5, "day": "friday", "subject": "Phyc", "teacher": "JN" }
+      ],
+      "3S": [
+        { "id": 1, "day": "monday", "subject": "Eng", "teacher": "JK" },
+        { "id": 2, "day": "tuesday", "subject": "Phyc", "teacher": "JK" },
+        { "id": 3, "day": "wednesday", "subject": "Kisw", "teacher": "JK" },
+        { "id": 4, "day": "thursday", "subject": "Bio", "teacher": "JK" },
+        { "id": 5, "day": "friday", "subject": "Kisw", "teacher": "JK" }
+      ]
+    }
+  }
+}
