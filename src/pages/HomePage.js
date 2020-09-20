@@ -7,7 +7,7 @@ const MainDiv = styled.div`
   display: flex;
   flex-flow: column;
   align-items: center;
-  background-color: blue;
+  background-color: red;
 `;
 
 const Title = styled.h3`
