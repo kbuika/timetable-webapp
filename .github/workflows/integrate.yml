@@ -1,0 +1,14 @@
+name: React Continuous Integration
+
+on:
+  pull_request:
+    branches: [master]
+
+jobs:
+  test_pull_request:
+    runs_on: ubuntu-latest
+    steps:
+      - users: actions/checkout@v2
+      - run: yarn install
+      - run: yarn test
+      - run: yarn build
