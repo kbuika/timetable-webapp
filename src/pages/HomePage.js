@@ -7,7 +7,6 @@ const MainDiv = styled.div`
   display: flex;
   flex-flow: column;
   align-items: center;
-  background-color: red;
 `;
 
 const Title = styled.h3`
@@ -53,11 +52,11 @@ function HomePage() {
             return <Day>{day}</Day>;
           })}
         </DayOfWeekDiv>
-        <TableColumn title={"8am - 9am"} />
-        <TableColumn title={"10am - 11am"} />
-        <TableColumn title={"11:30am - 12:45pm"} />
-        <TableColumn title={"1:30pm - 2:30pm"} />
-        <TableColumn title={"3pm - 4pm"} />
+        <TableColumn title={"8am - 9am"} lesson={"lesson1"} />
+        <TableColumn title={"10am - 11am"} lesson={"lesson2"} />
+        <TableColumn title={"11:30am - 12:45pm"} lesson={"lesson3"} />
+        <TableColumn title={"1:30pm - 2:30pm"} lesson={"lesson4"} />
+        <TableColumn title={"3pm - 4pm"} lesson={"lesson5"} />
       </MainTableDiv>
     </MainDiv>
   );
